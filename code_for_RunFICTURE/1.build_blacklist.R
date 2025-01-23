@@ -5,10 +5,9 @@
 
 library(Seurat)
 library(ggplot2)
-library(patchwork)
 library(dplyr)
-library(hdf5r)
 library(arrow)
+library(hdf5r)
 library(magrittr)
 library(data.table)
 library(Matrix)
