@@ -9,3 +9,5 @@
 If you don't see any tissue debris or systemic error, please set NULL
 ### 4. Set path of bgzip, tabix
 ex) bgzip_path=/home/sjcho/.conda/envs/FICTURE/bin/bgzip
+
+### After annoying parameter set up and polygon set up.... just run RUN_FICTURE.sh
