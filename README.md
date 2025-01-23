@@ -1,4 +1,5 @@
 # FICTURE_visiumHD
+### Manually fix some errors with FICTURE
 
 ## requirements : 
 ### 1. jq / conda install conda-forge::jq
