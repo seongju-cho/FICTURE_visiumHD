@@ -1,4 +1,6 @@
 # FICTURE_visiumHD
+### Contact : seongju6787@postech.ac.kr
+
 ### Manually fix some errors with FICTURE. 
 ### Especially errors related to coordinates matching in visiumHD (and their visulization)
 
