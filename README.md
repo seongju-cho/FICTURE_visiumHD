@@ -1,5 +1,6 @@
 # FICTURE_visiumHD
-### Manually fix some errors with FICTURE. Especially error with coordinates matching
+### Manually fix some errors with FICTURE. 
+### Especially error with coordinates matching in visiumHD
 
 ## requirements : 
 ### 1. jq / conda install conda-forge::jq
