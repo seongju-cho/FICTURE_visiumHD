@@ -14,6 +14,7 @@ polygon_path=/home/sjcho/projects/ATLAS_visiumHD/lung_HN00227429_20241003/4.FICT
 outpath=/home/sjcho/projects/ATLAS_visiumHD/lung_HN00227429_20241003/4.FICTURE/outs_tumor
 spatula_path=/home/sjcho/yard/apps/spatula/spatula/bin/spatula
 scale_factor=4.620840292370345 # change pixel to micrometer in original barcode file
+# scale_factor stored in Your_spaceRanger_output_path/outs/binned_outputs/square_002um/spatial/scalefactors_json.json
 
 ## FICTURE parameter
 train_width=12 # size of anchor
