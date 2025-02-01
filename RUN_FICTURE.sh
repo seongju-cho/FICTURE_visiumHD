@@ -24,6 +24,7 @@ bgzip_path=/home/sjcho/.conda/envs/FICTURE/bin/bgzip
 tabix_path=/home/sjcho/.conda/envs/FICTURE/bin/tabix
 
 # build output directory
+mkidr -p ${outpath}
 mkdir -p ${outpath}/1.blacklist
 mkdir -p ${outpath}/2.FormatChange
 mkdir -p ${outpath}/3.FICTURE/${sample_name}
