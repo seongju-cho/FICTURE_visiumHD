@@ -73,6 +73,11 @@ polygon_cutoff = list(
     'Normal_02' = NULL,
     'Tumor_02' = matrix(c(2150, 250, 2150, 1500, 1600, 1600, 1600, 2000, 2300, 2000, 2300, 250), ncol = 2, dimnames = list(NULL, c('x', 'y')), byrow = TRUE))
 
+polygon = polygon_cutoff$Normal_02
+save(polygon, file = paste0(save_path, '/polygon_normal.RData'))
+polygon = polygon_cutoff$Tumor_02
+save(polygon, file = paste0(save_path, '/polygon_tumor.RData'))
+
 
 # visualize tissue morphology with polygon cutoff
 for (sample_name in names(so_list)) {
