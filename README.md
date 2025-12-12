@@ -10,7 +10,7 @@
 ### 3. spatula / check https://github.com/seqscope/spatula
 ### 4. Tissue debris or Systemic error region information (polygon) 
 If you don't see any tissue debris or systemic error, please set NULL
-Example code for set polygon is in the 1.build_blacklist.R file
+Example code for set polygon is in the setPolygon_example.R
 
 ### 5. Set path of bgzip, tabix
 ex) bgzip_path=/home/sjcho/.conda/envs/FICTURE/bin/bgzip
